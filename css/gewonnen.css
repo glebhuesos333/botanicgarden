@@ -1,0 +1,29 @@
+.text-win {
+    color: rgb(135, 238, 135);
+    font-size: 20px;
+    font-weight: 500
+}
+
+
+
+#bold2 {
+    font-weight: 900;
+}
+
+#capitalize {
+    text-transform: uppercase;
+}
+
+img {
+    width: 800px
+}
+
+li {
+    font-size: 24px;
+}
+
+.win {
+    font-size: 72px;
+    color: greenyellow;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}

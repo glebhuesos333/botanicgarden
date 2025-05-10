@@ -1,0 +1,30 @@
+.text-lose {
+    color: red;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading-lose {
+    color: red;
+    font-size: 32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#bold {
+    font-weight: 600;
+}
+
+
+
+img:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+
+a {
+    text-decoration: underline;
+}
+
+#bigtext {
+    font-size: 30px;
+}
